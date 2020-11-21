@@ -80,7 +80,7 @@
             <tr>
         <div class="col-md-3">
             <td><label>Cuotas: </label></td>
-            <td><input class="badge-pill badge-light" type="number" placeholder="Cuotas" id="CantiCuotas" name="CantiCuotas"/></td>
+            <td><input class="badge-pill badge-light" type="number" placeholder="Cuotas en meses" id="CantiCuotas" name="CantiCuotas"/></td>
                 </div></tr>
             <tr>
         <div class="col-md-3">
